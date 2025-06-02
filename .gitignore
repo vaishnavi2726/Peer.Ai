@@ -1,3 +1,5 @@
 .env
 config.py # add any secret files here
 .DS_Store
+.DS_Store
+README.md.save
