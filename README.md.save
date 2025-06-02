@@ -1,0 +1,30 @@
+nano README.md
+nano README.md
+git add README.md
+# Peer.Ai
+
+This project is an AI-powered platform for peer collaboration.
+
+## Features
+- Feature 1 description
+- Feature 2 description
+- Feature 3 description
+
+## Installation
+
+1. Clone the repo  
+   `git clone https://github.com/vaishnavi2726/Peer.Ai.git`
+
+2. Install dependencies  
+   `pip install -r requirements.txt`  *(or whatever your project uses)*
+
+3. Run the project  
+   `python main.py`  *(replace with your start command)*
+
+## Technologies Used
+- Python
+- Rasa
+- JAX
+
+## License
+This project is licensed under the MIT License.
